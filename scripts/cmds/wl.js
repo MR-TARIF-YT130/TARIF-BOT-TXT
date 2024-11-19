@@ -3,7 +3,7 @@ module.exports = {
 	config: {
 		name: "wl",
 		version: "1.0",
-		author: "rehat--",
+		author: "ArYan 🤡",
 		countDown: 5,
 		role: 2,
 		longDescription: {

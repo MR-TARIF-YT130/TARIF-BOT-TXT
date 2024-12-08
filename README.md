@@ -6,7 +6,7 @@
 </h3>
 <a href="https://ibb.co/sRsVHQ6"><img src="https://m.me/Mr.tarif.yt.x130" alt="Picsart-23-12-11-03-58-27-022" border="0"></a>
 <a href="https://Instagram.com/n0t_y0urs_ali" target="_blank"><img src="https://github.com/K0J4/K0J4/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
-<a href="https://t.me/kojababu"><img src="https://github.com/K0J4/K0J4/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
+<a href="https://m.me/Mr.tarif.yt.x130"><img src="https://github.com/K0J4/K0J4/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/100010503540373" target="_blank"><img src="https://github.com/K0J4/K0J4/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a> <a href="https://youtube.com/@kojababu"><img src="https://github.com/K0J4/K0J4/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2K0J4%2Fgithub-K0J4"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-K0J4&label=ALI'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
 <center>

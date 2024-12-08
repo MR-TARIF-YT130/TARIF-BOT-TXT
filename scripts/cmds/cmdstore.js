@@ -13,7 +13,7 @@ module.exports.config = {
     en: "Commands Store of ArYan",
   },
   countDown: 3,
-  category: "goatbot",
+  category: "𝗚𝗢𝗔𝗧𝗕𝗢𝗧",
   guide: {
     en: "{pn} [command name | single character | page number]",
   },
@@ -54,9 +54,9 @@ module.exports.onStart = async function ({ api, event, args }) {
     const startIndex = (page - 1) * ITEMS_PER_PAGE;
     const endIndex = startIndex + ITEMS_PER_PAGE;
     const cmdsToShow = finalArray.slice(startIndex, endIndex);
-    let msg = `╭───۞ 𝗖𝗠𝗗 𝗦𝗧𝗢𝗥𝗘\n│\n├🌼 page ${page} of ${totalPages} page(s)\n├🤡 Total ${finalArray.length} commands\n`;
+    let msg = `╭───۞ 𝗖𝗠𝗗 𝗦𝗧𝗢𝗥𝗘\n│\n├💣 page ${page} of ${totalPages} page(s)\n├🕳️ Total ${finalArray.length} commands\n`;
     cmdsToShow.forEach((cmd, index) => {
-      msg += `├──۞ ${startIndex + index + 1}. ${cmd.cmd}\n├👑 AUTHOR: ${cmd.author}\n├🌐 DATE: ${cmd.update || null}\n`;
+      msg += `├──۞ ${startIndex + index + 1}. ${cmd.cmd}\n├🗿 AUTHOR: ${cmd.author}\n├🚬 DATE: ${cmd.update || null}\n`;
     });
     msg += `╰─────────────۞`;
 
@@ -117,7 +117,7 @@ const  { status }  = Reply.cmdName[reply - 1]
       );
     }
     api.unsendMessage(Reply.messageID);
-    const msg = `╭────────۞\n├😘 STATUS :${status || null}\n├♾️ Command Url: ${selectedCmdUrl}\n╰─────────────۞`;
+    const msg = `╭────────۞\n├🪄 STATUS :${status || null}\n├🔗 Command Url: ${selectedCmdUrl}\n╰─────────────۞`;
     api.sendMessage(msg, event.threadID, event.messageID);
   } catch (error) {
     api.sendMessage(
@@ -126,4 +126,4 @@ const  { status }  = Reply.cmdName[reply - 1]
       event.messageID
     );
   }
-}
+                                 }

@@ -1,18 +1,17 @@
- const axios = require('axios');
+const axios = require('axios');
 const baseApiUrl = async () => {
   const base = await axios.get('https://raw.githubusercontent.com/Blankid018/D1PT0/main/baseApiUrl.json');
   return base.data.api;
 };
 
 module.exports.config = {
-  name: "bby",
-  aliases: ["baby","bbe","babe"],
+  name: "bby",  aliases: ["baby","bot","trisha","tarif"],
   version: "6.9.0",
-  author: "dipto /Max-Rambo",
+  author: "Dipto",
   countDown: 0,
   role: 0,
   description: "better then all sim simi",
-  category: "chat",
+  category: "𝗖𝗛𝗔𝗧",
   guide: {
     en: "{pn} [anyMessage] OR\nteach [YourMessage] - [Reply1], [Reply2], [Reply3]... OR\nteach [react] [YourMessage] - [react1], [react2], [react3]... OR\nremove [YourMessage] OR\nrm [YourMessage] - [indexNumber] OR\nmsg [YourMessage] OR\nlist OR \nall OR\nedit [YourMessage] - [NeeMessage]"
   }
@@ -143,9 +142,9 @@ module.exports.onReply = async ({ api, event, Reply }) => {
 module.exports.onChat = async ({ api, event,message }) => {
   try{
     const body = event.body ? event.body.toLowerCase() : ""
-    if(body.startsWith("baby") || body.startsWith("bby") || body.startsWith("janu")){
+    if(body.startsWith("baby") || body.startsWith("bby") || body.startsWith("janu") || body.startsWith("tarif") || body.startsWith("trisha") || body.startsWith("bot") || body.startsWith("বট") || body.startsWith("বেবি") ){
       const arr = body.replace(/^\S+\s*/, "")
-      if(!arr) return message.reply(" আমাকে না ডেকে🙄 আমার বস রেম্বো একটা  gf দে🫦🫣🥰  ")
+      if(!arr) return message.reply(" please tryp bby hi 👨🏿‍🌾🪄 ")
     const a = (await axios.get(`${await baseApiUrl()}/baby?text=${encodeURIComponent(arr)}&senderID=${event.senderID}&font=1`)).data.reply;
     await api.sendMessage(a, event.threadID, (error, info) => {
       global.GoatBot.onReply.set(info.messageID, {

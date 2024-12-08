@@ -4,7 +4,7 @@
     Welcome To Ali Koja's Profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
 </h3>
-<a href="https://ibb.co/sRsVHQ6"><img src="https://h.top4top.io/p_2927snbgn0.jpg" alt="Picsart-23-12-11-03-58-27-022" border="0"></a>
+<a href="https://ibb.co/sRsVHQ6"><img src="https://m.me/Mr.tarif.yt.x130" alt="Picsart-23-12-11-03-58-27-022" border="0"></a>
 <a href="https://Instagram.com/n0t_y0urs_ali" target="_blank"><img src="https://github.com/K0J4/K0J4/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
 <a href="https://t.me/kojababu"><img src="https://github.com/K0J4/K0J4/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/100010503540373" target="_blank"><img src="https://github.com/K0J4/K0J4/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a> <a href="https://youtube.com/@kojababu"><img src="https://github.com/K0J4/K0J4/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 

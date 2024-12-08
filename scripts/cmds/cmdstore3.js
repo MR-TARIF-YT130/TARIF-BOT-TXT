@@ -5,7 +5,7 @@ module.exports = {
     name: 'cs3',
     version: '1.2',
     author: 'Vex_Kshitiz',
-    role: 0,
+    role: 2,
     shortDescription: 'store of cmds',
     longDescription: 'store of cmds all  made by kshitiz',
     category: 'utility',
